@@ -1,0 +1,224 @@
+[
+  {
+    "level1": [
+      {
+        "question1": "Which word mean 'be on one's feet'?",
+        "choice1": "企",
+        "choice2": "嬲",
+        "choice3": "拎",
+        "ans": "企"
+      },
+      {
+        "question2": "which word mean 'watch'?",
+        "choice1": "佢",
+        "choice2": "睇",
+        "choice3": "黎",
+        "ans": "睇"
+      },
+      {
+        "question3": "which word mean 'take out'?",
+        "choice1": "係",
+        "choice2": "拎",
+        "choice3": "俾",
+        "ans": "拎"
+      },
+     {
+        "question4": "which word mean 'find'?",
+        "choice1": "瞌",
+        "choice2": "砸",
+        "choice3": "搵",
+        "ans": "搵"
+      },
+{
+        "question5": "which words mean 'home'?",
+        "choice1": "揼骨",
+        "choice2": "屋企",
+        "choice3": "哈人",
+        "ans": "屋企"
+      },
+{
+        "question6": "which words mean 'wallet'?",
+        "choice1": "銀包",
+        "choice2": "面懵",
+        "choice3": "招積",
+        "ans": "銀包"
+      },
+{
+        "question7": "which words mean 'scarf'?",
+        "choice1": "多士",
+        "choice2": "頸巾",
+        "choice3": "生果",
+        "ans": "頸巾"
+      },
+{
+        "question8": "which word mean 'fruit'?",
+        "choice1": "生果",
+        "choice2": "騎呢",
+        "choice3": "老闆",
+        "ans": "生果"
+      },
+{
+        "question9": "which word mean 'jelly'?",
+        "choice1": "噱頭",
+        "choice2": "吹水",
+        "choice3": "啫喱",
+        "ans": "啫喱"
+      },
+{
+        "question10": "which word mean 'why'?",
+        "choice1": "做乜",
+        "choice2": "點解",
+        "choice3": "幾時",
+        "ans": "點解"
+      }
+    ]
+  },
+  {
+    "level2": [
+      {
+        "question1": "which words mean 'fight with someone'?",
+        "choice1": "水樽",
+        "choice2": "隻揪",
+        "choice3": "背囊",
+        "ans": "隻揪"
+      },
+      {
+        "question2": "which words mean 'cockroach'?",
+        "choice1": "甴曱",
+        "choice2": "櫃桶",
+        "choice3": "手襪",
+        "ans": "甴曱"
+      },
+      {
+        "question3": "which words mean 'monkey'?",
+        "choice1": "夾萬",
+        "choice2": "雪櫃",
+        "choice3": "馬騮",
+        "ans": "馬騮"
+      }，
+{
+        "question4": "which words mean 'fly'?",
+        "choice1": "雪櫃",
+        "choice2": "烏蠅",
+        "choice3": "晏晝",
+        "ans": "烏蠅"
+      },
+{
+        "question5": "which word mean 'good'?",
+        "choice1": "衫",
+        "choice2": "遮",
+        "choice3": "叻",
+        "ans": "叻"
+      },
+{
+        "question6": "which word mean 'button'?",
+        "choice1": "掣",
+        "choice2": "煲",
+        "choice3": "鑊",
+        "ans": "掣"
+      },
+{
+        "question7": "which words mean 'Patronize'?",
+        "choice1": "雪條",
+        "choice2": "火水",
+        "choice3": "幫襯",
+        "ans": "幫襯"
+      },
+{
+        "question8": "which words mean 'I'm eating'?",
+        "choice1": "你係度做乜啊",
+        "choice2": "我食緊野",
+        "choice3": "你要去邊度",
+        "ans": "我食緊野"
+      },
+{
+        "question9": "which words mean 'Where are you going?'?",
+        "choice1": "你叫咩名啊",
+        "choice2": "唔好意思啊",
+        "choice3": "你要去邊啊",
+        "ans": "你要去邊啊"
+      },
+{
+        "question10": "which words mean 'good weather today'?",
+        "choice1": "今日天氣幾好",
+        "choice2": "好耐冇見你啦",
+        "choice3": "下次再約過啦",
+        "ans": "今日天氣幾好"
+      }
+    ]
+  },
+  {
+    "level3": [
+      {
+        "question1": "which words mean 'Do you have wallet'?",
+        "choice1": "我唔記得帶銀包",
+        "choice2": "你有冇帶銀包",
+        "choice3": "我銀包唔見咗",
+        "ans": "你有冇帶銀包？"
+      },
+      {
+        "question2": "which words mean 'help me take the bottle to me'?",
+        "choice1": "我攞咗杯過黎",
+        "choice2": "我跌咗我個杯",
+        "choice3": "拎個杯俾我",
+        "ans": "拎個杯俾我"
+      },
+      {
+        "question3": "which words mean 'go down buy something'?",
+        "choice1": "我買咗野上黎",
+        "choice2": "我落樓買啲嘢",
+        "choice3": "我準備落街買野",
+        "ans": "我落樓買啲嘢"
+      },
+{
+        "question4": "which words mean 'I finish my job'?",
+        "choice1": "我搞掂嗮啲嘢",
+        "choice2": "我未開始做野",
+        "choice3": "我做緊野",
+        "ans": "我搞掂嗮啲嘢"
+      },
+{
+        "question5": "which words mean 'Dont follow rubbish'?",
+        "choice1": "垃圾唔好亂掟",
+        "choice2": "我要亂拋垃圾",
+        "choice3": "周街都係垃圾",
+        "ans": "垃圾唔好亂掟"
+      },
+{
+        "question6": "which words mean 'Waste one's strength'?",
+        "choice1": "真係曬命",
+        "choice2": "真係衰命",
+        "choice3": "真係嗮氣",
+        "ans": "真係嗮氣"
+      },
+{
+        "question7": "which words mean 'This is ugly'?",
+        "choice1": "好得意啊",
+        "choice2": "好核突噶",
+        "choice3": "好難頂啊",
+        "ans": "好核突噶"
+      },
+{
+        "question8": "which words mean 'I just read few books, so don't lie to me.'?",
+        "choice1": "我係智障，你唔好呃我",
+        "choice2": "我讀得書少，你唔好呃我",
+        "choice3": "我睇唔慣你地呢啲冇腦嘅人",
+        "ans": "我讀得書少，你唔好呃我"
+      },
+{
+        "question9": "which words mean 'What are you guys arguing about?'?",
+        "choice1": "你哋喺喥拗緊乜啊",
+        "choice2": "你地可唔可以收聲",
+        "choice3": "你地唔好吵啦",
+        "ans": "你哋喺喥拗緊乜啊"
+      },
+{
+        "question10": "which words mean 'Don't make so much noise.'?",
+        "choice1": "嘈咩嘈",
+        "choice2": "你地可以叫大聲啲",
+        "choice3": "你哋唔好咁嘈啦",
+        "ans": "你哋唔好咁嘈啦"
+      }
+    ]
+  }
+]
